@@ -1,7 +1,7 @@
 package A4;
 
 //Samuel Nordale
-//260730745
+
 
 import java.util.ArrayList;
 import java.util.Iterator;
