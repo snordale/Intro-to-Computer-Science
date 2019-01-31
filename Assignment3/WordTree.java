@@ -2,8 +2,8 @@ package A3;
 
 //COMP 250 - Introduction to Computer Science - Fall 2017
 //Samuel Nordale
-//260730745
-//Assignment #3 - Question 1
+//
+//Assignment #3
 
 import java.util.*;
 
