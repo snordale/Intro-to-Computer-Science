@@ -1,7 +1,7 @@
 package A4;
 
 //Samuel Nordale
-//260730745
+
 
 public class HashLinkedList<K,V>{
 	/*
